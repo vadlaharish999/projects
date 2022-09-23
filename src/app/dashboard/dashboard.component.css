@@ -1,0 +1,21 @@
+.perent{
+    width: 100vw;
+    height: 100vh;
+    background-color: brown;
+    display: FLEX;
+    
+    overflow: auto;
+}
+.c1{
+    height: 100vh;
+    width: 20vw;
+    background-color: black;
+    overflow: auto;
+    color:azure
+}
+.c2{
+    height: 100vh;
+    width: 80vw;
+    
+    overflow: auto;
+}
